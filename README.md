@@ -1,3 +1,3 @@
-# First-code-in-C-
-my first repository
+# First-code-in-C
+My first repository
 hello world
